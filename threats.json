@@ -1,0 +1,26 @@
+[
+  {
+    "time": 47.0,
+    "ip": "10.0.0.77",
+    "type": "Brute Force",
+    "score": 9,
+    "severity": "high",
+    "detail": "6 failed logins in 10s"
+  },
+  {
+    "time": 23.3,
+    "ip": "10.0.0.99",
+    "type": "Traffic Flood",
+    "score": 6,
+    "severity": "medium",
+    "detail": "101 packets in 10s"
+  },
+  {
+    "time": 36.8,
+    "ip": "10.0.0.50",
+    "type": "Port Scan",
+    "score": 6,
+    "severity": "medium",
+    "detail": "16 different ports probed on one target"
+  }
+]
